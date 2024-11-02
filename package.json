@@ -1,0 +1,16 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "A simple cli chat bot using DecaChat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "keywords": [],
+  "author": "Tom Tarpey (DecagonDev)",
+  "license": "MIT",
+  "dependencies": {
+    "deca-chat": "^1.0.3",
+    "dotenv": "^16.4.5"
+  }
+}
